@@ -99,3 +99,9 @@ if user_input:
        user_str = convert(user_input)
        everything(user_str)
        st.pyplot()
+
+
+st.write("""
+If error is encountered, you can contact Ayo Yissa, the creator on [Twitter](https://twitter.com/AyoYissa) or send a [mail](mailto:ayomideyissa@gmail.com)
+
+""")
